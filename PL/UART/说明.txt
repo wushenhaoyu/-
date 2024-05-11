@@ -1,0 +1,4 @@
+uart双向，直接用
+调整uart_loopback中
+DATA_DIWTH为一次传输数据量：如果为32 会等到data凑够32再去发生，每次固定发送8位
+

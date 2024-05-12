@@ -1,0 +1,4 @@
+参数 duty_cycle: 占空比 0~100
+	frequency: 频率
+输入pwm_gen_en:使能 1干活 0不干活
+输出pwm_out :输出PWM波形

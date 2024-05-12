@@ -1,0 +1,5 @@
+直接用
+使用方法Key连接信号
+输出Key_State: 0表示按下 1表示抬起
+Key_P_Flag: 按下信号脉冲
+Key_R_Flag:抬起信号脉冲
